@@ -1,13 +1,11 @@
 class Solution {
     public boolean isIdealPermutation(int[] nums) {
-        int inversions=0;
-        for(int i=0;i<nums.length-1;i++){
-            if(nums[i]>nums[i+1]){
-            inversions++;
+        for(int i=0;i<nums.length;i++){
+            if (Math.abs(nums[i] - i) > 1) {
+                return false;
             }
         }
-        int global = helper1(nums.clone(),0,nums.length-1);
-        return global == inversions;
+        return true;
     }
     private int helper1(int[] nums,int si,int ei){
         if(si>=ei){

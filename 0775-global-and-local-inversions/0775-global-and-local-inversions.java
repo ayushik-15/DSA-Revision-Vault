@@ -6,8 +6,8 @@ class Solution {
             inversions++;
             }
         }
-        int local = helper1(nums.clone(),0,nums.length-1);
-        return local == inversions;
+        int global = helper1(nums.clone(),0,nums.length-1);
+        return global == inversions;
     }
     private int helper1(int[] nums,int si,int ei){
         if(si>=ei){

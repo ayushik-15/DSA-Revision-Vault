@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0605-can-place-flowers) |
 | [0724-find-pivot-index](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0724-find-pivot-index) |
 | [0775-global-and-local-inversions](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0775-global-and-local-inversions) |
+| [0832-flipping-an-image](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0832-flipping-an-image) |
 | [0912-sort-an-array](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0912-sort-an-array) |
 ## Prefix Sum
 |  |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0240-search-a-2d-matrix-ii) |
 | [0463-island-perimeter](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0463-island-perimeter) |
+| [0832-flipping-an-image](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0832-flipping-an-image) |
 ## Math
 |  |
 | ------- |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0344-reverse-string) |
+| [0832-flipping-an-image](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0832-flipping-an-image) |
 ## String
 |  |
 | ------- |
@@ -101,4 +104,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0463-island-perimeter) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0832-flipping-an-image](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0832-flipping-an-image) |
+## Simulation
+|  |
+| ------- |
+| [0832-flipping-an-image](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0832-flipping-an-image) |
 <!---LeetCode Topics End-->

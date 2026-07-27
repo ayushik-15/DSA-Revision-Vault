@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0033-search-in-rotated-sorted-array) |
+| [0078-subsets](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0078-subsets) |
 | [0229-majority-element-ii](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0240-search-a-2d-matrix-ii) |
 | [0463-island-perimeter](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0463-island-perimeter) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0078-subsets) |
 | [0832-flipping-an-image](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0832-flipping-an-image) |
 ## Simulation
 |  |
@@ -134,4 +136,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0700-search-in-a-binary-search-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->

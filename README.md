@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0033-search-in-rotated-sorted-array) |
 | [0046-permutations](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0078-subsets) |
 | [0229-majority-element-ii](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0240-search-a-2d-matrix-ii) |
@@ -141,5 +142,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->

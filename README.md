@@ -52,12 +52,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0062-unique-paths) |
 | [0509-fibonacci-number](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0509-fibonacci-number) |
 | [0775-global-and-local-inversions](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0775-global-and-local-inversions) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0062-unique-paths) |
 | [0509-fibonacci-number](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -151,4 +153,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0078-subsets) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->

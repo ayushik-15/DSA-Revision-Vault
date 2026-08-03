@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0033-search-in-rotated-sorted-array) |
+| [0037-sudoku-solver](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0078-subsets) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0037-sudoku-solver) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0240-search-a-2d-matrix-ii) |
 | [0463-island-perimeter](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0463-island-perimeter) |
 | [0832-flipping-an-image](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0832-flipping-an-image) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0037-sudoku-solver) |
 | [0229-majority-element-ii](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0229-majority-element-ii) |
 ## Depth-First Search
 |  |
@@ -152,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0052-n-queens-ii) |
@@ -172,4 +176,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0877-stone-game) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->

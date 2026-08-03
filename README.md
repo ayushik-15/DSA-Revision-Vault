@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0724-find-pivot-index) |
 | [0775-global-and-local-inversions](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0775-global-and-local-inversions) |
 | [0832-flipping-an-image](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0832-flipping-an-image) |
+| [0877-stone-game](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0912-sort-an-array) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1929-concatenation-of-array](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/1929-concatenation-of-array) |
@@ -55,12 +56,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0062-unique-paths) |
 | [0509-fibonacci-number](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0509-fibonacci-number) |
 | [0775-global-and-local-inversions](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0775-global-and-local-inversions) |
+| [0877-stone-game](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0877-stone-game) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0062-unique-paths) |
 | [0509-fibonacci-number](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0877-stone-game) |
 ## Recursion
 |  |
 | ------- |
@@ -157,4 +160,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0062-unique-paths) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->

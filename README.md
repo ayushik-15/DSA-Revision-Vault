@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/1929-concatenation-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2596-check-knight-tour-configuration](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/2596-check-knight-tour-configuration) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0240-search-a-2d-matrix-ii) |
 | [0463-island-perimeter](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0463-island-perimeter) |
 | [0832-flipping-an-image](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0832-flipping-an-image) |
+| [2596-check-knight-tour-configuration](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/2596-check-knight-tour-configuration) |
 ## Math
 |  |
 | ------- |
@@ -122,10 +124,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0463-island-perimeter](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0463-island-perimeter) |
 | [1382-balance-a-binary-search-tree](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/1382-balance-a-binary-search-tree) |
+| [2596-check-knight-tour-configuration](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/2596-check-knight-tour-configuration) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0463-island-perimeter) |
+| [2596-check-knight-tour-configuration](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/2596-check-knight-tour-configuration) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -137,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0832-flipping-an-image) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1929-concatenation-of-array](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/1929-concatenation-of-array) |
+| [2596-check-knight-tour-configuration](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/2596-check-knight-tour-configuration) |
 ## Tree
 |  |
 | ------- |

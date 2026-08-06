@@ -1,17 +1,19 @@
 class Solution {
     public boolean predictTheWinner(int[] nums) {
-        if( helper(nums,0,nums.length-1)>=0)return true;
-        return false;
+        int n = nums.length;
+        Integer[][] arr = new Integer[n][n];
+        return helper(nums,0,nums.length-1,arr)>=0;
     }
-    private int helper(int[] nums, int i,int j){
+    private int helper(int[] nums, int i,int j,Integer[][] arr){
         if(i==j){
             return nums[i];
         }
-        int P1 = nums[i] - helper(nums,i+1,j);
-        int P2 = nums[j] - helper(nums,i,j-1);
+        if(arr[i][j] !=null ){
+            return arr[i][j];
+        }
+        int P1 = nums[i] - helper(nums,i+1,j,arr);
+        int P2 = nums[j] - helper(nums,i,j-1,arr);
 
-        int more = Math.max(P1,P2);
-
-        return more;
+        return arr[i][j] = Math.max(P1,P2);
     }
 }

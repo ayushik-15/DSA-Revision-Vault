@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0033-search-in-rotated-sorted-array) |
+| [0036-valid-sudoku](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0046-permutations) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0037-sudoku-solver) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0240-search-a-2d-matrix-ii) |
 | [0463-island-perimeter](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0463-island-perimeter) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0037-sudoku-solver) |
 | [0229-majority-element-ii](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0229-majority-element-ii) |
 | [3731-find-missing-elements](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/3731-find-missing-elements) |

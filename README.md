@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0775-global-and-local-inversions](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0775-global-and-local-inversions) |
 | [0832-flipping-an-image](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0832-flipping-an-image) |
 | [0877-stone-game](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0877-stone-game) |
+| [0896-monotonic-array](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0896-monotonic-array) |
 | [0912-sort-an-array](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0912-sort-an-array) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1929-concatenation-of-array](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/1929-concatenation-of-array) |

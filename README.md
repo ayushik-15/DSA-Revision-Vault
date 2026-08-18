@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0078-subsets) |
 | [0229-majority-element-ii](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0240-search-a-2d-matrix-ii) |
+| [0287-find-the-duplicate-number](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0287-find-the-duplicate-number) |
 | [0463-island-perimeter](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0463-island-perimeter) |
 | [0486-predict-the-winner](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0486-predict-the-winner) |
 | [0605-can-place-flowers](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0605-can-place-flowers) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0033-search-in-rotated-sorted-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0240-search-a-2d-matrix-ii) |
+| [0287-find-the-duplicate-number](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0287-find-the-duplicate-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Divide and Conquer
 |  |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0234-palindrome-linked-list](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0344-reverse-string) |
 | [0832-flipping-an-image](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0832-flipping-an-image) |
 | [0876-middle-of-the-linked-list](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0876-middle-of-the-linked-list) |
@@ -159,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0078-subsets) |
+| [0287-find-the-duplicate-number](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0287-find-the-duplicate-number) |
 | [0832-flipping-an-image](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0832-flipping-an-image) |
 ## Simulation
 |  |
@@ -234,4 +238,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0234-palindrome-linked-list) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->

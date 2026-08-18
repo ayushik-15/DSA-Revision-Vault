@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0344-reverse-string) |
 | [0832-flipping-an-image](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0832-flipping-an-image) |
+| [0876-middle-of-the-linked-list](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0876-middle-of-the-linked-list) |
 ## String
 |  |
 | ------- |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0234-palindrome-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0876-middle-of-the-linked-list) |
 ## Stack
 |  |
 | ------- |

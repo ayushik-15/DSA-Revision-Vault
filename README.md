@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0486-predict-the-winner) |
 | [0605-can-place-flowers](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0605-can-place-flowers) |
 | [0724-find-pivot-index](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0739-daily-temperatures) |
 | [0775-global-and-local-inversions](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0775-global-and-local-inversions) |
 | [0832-flipping-an-image](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0832-flipping-an-image) |
 | [0877-stone-game](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0877-stone-game) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0143-reorder-list](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0234-palindrome-linked-list) |
+| [0739-daily-temperatures](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0739-daily-temperatures) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -263,4 +265,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0287-find-the-duplicate-number) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->

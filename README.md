@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0349-intersection-of-two-arrays) |
 | [0463-island-perimeter](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0463-island-perimeter) |
 | [0486-predict-the-winner](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0486-predict-the-winner) |
 | [0605-can-place-flowers](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0605-can-place-flowers) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0033-search-in-rotated-sorted-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0349-intersection-of-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Divide and Conquer
 |  |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0349-intersection-of-two-arrays) |
 | [0832-flipping-an-image](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0832-flipping-an-image) |
 | [0876-middle-of-the-linked-list](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0876-middle-of-the-linked-list) |
 ## String
@@ -120,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0229-majority-element-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0349-intersection-of-two-arrays) |
 | [0912-sort-an-array](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0912-sort-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3731-find-missing-elements](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/3731-find-missing-elements) |
@@ -153,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0037-sudoku-solver) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0160-intersection-of-two-linked-lists) |
 | [0229-majority-element-ii](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0229-majority-element-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0349-intersection-of-two-arrays) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/3718-smallest-missing-multiple-of-k) |

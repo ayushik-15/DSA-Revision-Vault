@@ -40,23 +40,14 @@ class Solution {
             if(head1.val <= head2.val){
                 temp.next = head1;
                 head1 = head1.next;
-                temp = temp.next;
-            }else{
+            } else {
                 temp.next = head2;
-                head2 = head2.next;
-                temp = temp.next;   
+                head2 = head2.next; 
             }
-        }
-        while(head1 != null){
-            temp.next = head1;
-            head1 = head1.next;
             temp = temp.next;
         }
-        while(head2 != null){
-            temp.next = head2;
-            head2 = head2.next;
-            temp = temp.next;  
-        }  
+        temp.next = (head1 != null) ? head1 : head2;
+        
         return mergedLL.next;
     }
 }

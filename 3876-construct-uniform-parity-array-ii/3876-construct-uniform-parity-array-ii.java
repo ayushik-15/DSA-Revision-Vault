@@ -1,22 +1,17 @@
 class Solution {
     public boolean uniformArray(int[] nums1) {
-        if(nums1 == null || nums1.length == 0){
-            return true;
-        }
-        int min = Integer.MAX_VALUE;
-        boolean hasOdd = false;
-
+        int min=Integer.MAX_VALUE;
         for(int num:nums1){
-            if(num<min){
-                min = num;
-            }
-            if(num%2 !=0){
-                hasOdd =true;
-            }
+            min=Math.min(min,num);
         }
-        if(min%2 !=0){
+        if(min%2==1){
             return true;
         }
-        return !hasOdd;
+        for(int num:nums1){
+            if(num%2==1){
+                return false;
+            }
+        }
+        return true;
     }
 }

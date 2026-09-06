@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-monotonic-array](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0896-monotonic-array) |
 | [0912-sort-an-array](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0912-sort-an-array) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/1252-cells-with-odd-values-in-a-matrix) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1929-concatenation-of-array](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/1929-concatenation-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0775-global-and-local-inversions](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0775-global-and-local-inversions) |
 | [0877-stone-game](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0877-stone-game) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/1252-cells-with-odd-values-in-a-matrix) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/3875-construct-uniform-parity-array-i) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0234-palindrome-linked-list) |
 | [0486-predict-the-winner](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0509-fibonacci-number) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Memoization
 |  |
 | ------- |
@@ -196,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0832-flipping-an-image](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0832-flipping-an-image) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/1252-cells-with-odd-values-in-a-matrix) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1929-concatenation-of-array](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/1929-concatenation-of-array) |
 | [2596-check-knight-tour-configuration](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/2596-check-knight-tour-configuration) |
 ## Tree
@@ -287,4 +291,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0739-daily-temperatures) |
+## Queue
+|  |
+| ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/1823-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->

@@ -281,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0234-palindrome-linked-list) |
 | [0739-daily-temperatures](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0901-online-stock-span) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -293,8 +294,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0901-online-stock-span) |
 ## Queue
 |  |
 | ------- |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/1823-find-the-winner-of-the-circular-game) |
+## Design
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->

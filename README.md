@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0344-reverse-string) |
 | [1108-defanging-an-ip-address](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/1108-defanging-an-ip-address) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0496-next-greater-element-i) |
@@ -316,4 +318,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0901-online-stock-span) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->

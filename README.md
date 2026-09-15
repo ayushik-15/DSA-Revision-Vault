@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0605-can-place-flowers) |
+| [0678-valid-parenthesis-string](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1382-balance-a-binary-search-tree](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Search
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0062-unique-paths) |
 | [0486-predict-the-winner](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0509-fibonacci-number) |
+| [0678-valid-parenthesis-string](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0877-stone-game) |
 ## Recursion
 |  |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0344-reverse-string) |
+| [0678-valid-parenthesis-string](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1108-defanging-an-ip-address](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/1108-defanging-an-ip-address) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -291,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0901-online-stock-span) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -325,5 +329,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0020-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->

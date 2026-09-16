@@ -1,48 +1,32 @@
 class Solution {
     public int largestRectangleArea(int[] heights) {
-        return maxArea(heights);
-    }
-    private int maxArea(int[] heights){
-        int area = 0 ;
-        int nsr[] = new int[heights.length];
-        int nsl[] = new int[heights.length];
-
-        Stack<Integer> s = new Stack<>();
-
-        for(int i=heights.length -1 ;i>=0;i--){
-            while(!s.isEmpty() && heights[s.peek()] >= heights[i]){
-                s.pop();
+        int n = heights.length;
+        if(n == 0) return 0; 
+        int area = 0;
+        int left[] = new int[n];
+        int right[] = new int[n];
+        
+        left[0] = -1;
+        right[n-1] = n;
+        
+        for(int i = 1; i < n; i++){
+            int prev = i-1;
+            while(prev >= 0 && heights[prev] >= heights[i]){
+                prev = left[prev]; 
             }
-            if(s.isEmpty()){
-                nsr[i] = heights.length;
-            }
-            else{
-                nsr[i] = s.peek();
-            }
-            s.push(i);
+            left[i] = prev;
         }
-
-        s = new Stack<>();
-
-        for(int i=0;i<heights.length;i++){
-            while(!s.isEmpty() && heights[s.peek()] >= heights[i]){
-                s.pop();
+        for(int i=n-2; i>=0; i--){
+            int prev = i+1; 
+            while(prev < n && heights[prev] >= heights[i]){
+                prev = right[prev]; 
             }
-            if(s.isEmpty()){
-                nsl[i] = -1;
-            }
-            else{
-                nsl[i] = s.peek();
-            }
-            s.push(i);
-        } 
-
-        for(int i=0;i<heights.length;i++){
-            int h = heights[i];
-            int w = nsr[i] - nsl[i] - 1;
-            int curr = h*w;
-            area = Math.max(curr,area);
-        }   
+            right[i] = prev;
+        }
+        for(int i = 0; i<n; i++){
+            int width = right[i] - left[i] - 1;
+            area = Math.max(area, heights[i] * width);
+        }
         return area;
     }
 }

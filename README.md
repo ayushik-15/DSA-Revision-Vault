@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0394-decode-string) |
 | [0486-predict-the-winner](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0509-fibonacci-number) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0344-reverse-string) |
+| [0394-decode-string](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0394-decode-string) |
 | [0678-valid-parenthesis-string](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1108-defanging-an-ip-address](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/1108-defanging-an-ip-address) |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0678-valid-parenthesis-string) |

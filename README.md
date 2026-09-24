@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [2596-check-knight-tour-configuration](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/2596-check-knight-tour-configuration) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/3875-construct-uniform-parity-array-i) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/3871-count-commas-in-range-ii) |

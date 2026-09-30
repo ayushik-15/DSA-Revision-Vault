@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0287-find-the-duplicate-number) |
+| [0303-range-sum-query-immutable](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0349-intersection-of-two-arrays) |
 | [0463-island-perimeter](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0463-island-perimeter) |
 | [0486-predict-the-winner](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0486-predict-the-winner) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0724-find-pivot-index) |
 | [3903-smallest-stable-index-i](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/3904-smallest-stable-index-ii) |
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0303-range-sum-query-immutable) |
 | [0901-online-stock-span](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |

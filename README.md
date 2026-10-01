@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-monotonic-array](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0896-monotonic-array) |
 | [0912-sort-an-array](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0912-sort-an-array) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/1252-cells-with-odd-values-in-a-matrix) |
+| [1732-find-the-highest-altitude](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/1732-find-the-highest-altitude) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1929-concatenation-of-array](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/1929-concatenation-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0724-find-pivot-index) |
+| [1732-find-the-highest-altitude](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/1732-find-the-highest-altitude) |
 | [3903-smallest-stable-index-i](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/3904-smallest-stable-index-ii) |
 ## Greedy

@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0062-unique-paths) |
 | [0486-predict-the-winner](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0509-fibonacci-number) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0022-generate-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0344-reverse-string) |
 | [0394-decode-string](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0394-decode-string) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0046-permutations) |
@@ -350,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0022-generate-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |

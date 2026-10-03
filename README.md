@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0032-longest-valid-parentheses) |
 | [0062-unique-paths](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0062-unique-paths) |
 | [0486-predict-the-winner](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0509-fibonacci-number) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0032-longest-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0344-reverse-string) |
 | [0394-decode-string](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0394-decode-string) |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0032-longest-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0234-palindrome-linked-list) |
@@ -354,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |

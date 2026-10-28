@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/1732-find-the-highest-altitude) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1929-concatenation-of-array](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/1929-concatenation-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/2150-find-all-lonely-numbers-in-the-array) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1108-defanging-an-ip-address](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/1108-defanging-an-ip-address) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Sorting
 |  |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1929-concatenation-of-array](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/1929-concatenation-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2596-check-knight-tour-configuration](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/2596-check-knight-tour-configuration) |
 ## Tree
 |  |

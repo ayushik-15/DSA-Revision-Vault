@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-monotonic-array](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0896-monotonic-array) |
 | [0912-sort-an-array](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0912-sort-an-array) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/1252-cells-with-odd-values-in-a-matrix) |
+| [1512-number-of-good-pairs](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/1512-number-of-good-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/1732-find-the-highest-altitude) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1929-concatenation-of-array](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/1929-concatenation-of-array) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0775-global-and-local-inversions](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0775-global-and-local-inversions) |
 | [0877-stone-game](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0877-stone-game) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/1252-cells-with-odd-values-in-a-matrix) |
+| [1512-number-of-good-pairs](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/1512-number-of-good-pairs) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2235-add-two-integers](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/2469-convert-the-temperature) |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0229-majority-element-ii](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0229-majority-element-ii) |
 | [0912-sort-an-array](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0912-sort-an-array) |
+| [1512-number-of-good-pairs](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/1512-number-of-good-pairs) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 ## Hash Table
@@ -215,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/0496-next-greater-element-i) |
+| [1512-number-of-good-pairs](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/1512-number-of-good-pairs) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/3718-smallest-missing-multiple-of-k) |

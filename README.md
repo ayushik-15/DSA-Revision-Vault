@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2235-add-two-integers](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/2469-convert-the-temperature) |
+| [2652-sum-multiples](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/2652-sum-multiples) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ayushik-15/DSA-Revision-Vault/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
